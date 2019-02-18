@@ -1,2 +1,2 @@
 # Supervised-Learning
-A comparison of three different classifiers across three different datasets.
+Adult is one of the datasets I trained my classification algorithms on. I took out a lot of the hyperparameters for the sake of tuning time. There are definitely some things I could clean up with more time. Maybe later...
